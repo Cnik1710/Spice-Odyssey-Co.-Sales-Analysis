@@ -95,10 +95,10 @@ Restaurants generate large volumes of transactional data across orders, menu ite
 This project analyzes Spice Odyssey Restaurant & Co.’s sales data to uncover actionable insights that support menu optimization, operational planning, and revenue growth.
 
 ### **Key Questions:**
-  * Which cuisine category receives the highest number of orders?
-  * How do orders and sales vary across weekdays and time?
-  * Which cuisines and items drive the most revenue?
-  * What patterns define high-value customer orders?
+ * Which cuisine category receives the highest number of orders?
+ * How do orders and sales vary across weekdays and time?
+ * Which cuisines and items drive the most revenue?
+ * What patterns define high-value customer orders?
 ---
 
 ## 💡 Key Insights
