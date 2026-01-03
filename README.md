@@ -133,11 +133,11 @@ This project analyzes Spice Odyssey Restaurant & Co.’s sales data to uncover a
    * Optimize menu strategy and operational planning.
    * Make faster, data-driven business decisions.
 
-Overall, this project demonstrates how structured sales analytics can directly support revenue growth, customer satisfaction, and operational efficiency in a restaurant business.
 ---
- 
+
 ## 🖥️ Dashboard Overview
 ![image alt]()
+
 ---
 
 ## ✅ Business Impact & Use Cases   
