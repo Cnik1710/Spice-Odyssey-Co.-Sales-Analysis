@@ -18,11 +18,6 @@ Analyze and interpret Spice Odyssey Restaurant & Co. Sales data to uncover actio
 
 ## 📘 Project Overview 
 ### **Context Highlights:**
-  * Kevaro Athletics, a global sports organization, maintains a diverse selection pool of 50 athletes representing 11 countries and multiple sporting disciplines.
-  * This project evaluates the balance and fairness of gender participation and salary distribution, reflecting organizational commitment toward inclusivity and performance-based equity.
-
-
-### **Context Highlights:**
   * This project analyzes sales data for Spice Odyssey Restaurant & Co., a multi-cuisine restaurant brand, to provide a holistic view of business performance and customer behavior.
   * The analysis helps Spice Odyssey’s marketing and product teams understand:
     * The restaurant operates across multiple cuisine categories — Asian, Mexican, Italian, and American.
