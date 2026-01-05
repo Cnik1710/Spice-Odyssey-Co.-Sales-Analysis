@@ -1,4 +1,4 @@
-# Spice Odyssey & Co. Sales Analysis
+# Spice Odyssey - Sales Analysis
  ---
 ## 🎯 Objective
 Analyze and interpret Spice Odyssey Restaurant & Co. Sales data to uncover actionable insights that drive customer engagement, menu & product optimization, targeted marketing, inventory & operational planning.
